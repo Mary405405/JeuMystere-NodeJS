@@ -1,0 +1,14 @@
+{
+  "name": "jeu-mystere",
+  "version": "1.0.0",
+  "description": "3 chances pour trouver un nombre",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Bionda",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
