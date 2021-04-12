@@ -1,2 +1,4 @@
 # JeuMystere-NodeJS
-Jeu Mystère en NodeJS, L3 MIAGE
+
+Le principe est de trouver un chiffre entre 0 et un nombre max en un nombre de tentatives défini.
+Le jeu est codé en NodeJS pour un projet scolaire.
